@@ -7,7 +7,7 @@ AI/ML Engineer with production-ready FastAPI and Docker experience from O2Geeks 
 AI/ML Intern | O2Geeks AI Program | Jul 25–Aug 29, 2025 | ML Engineering Lead<br>
 1. Completed an intensive deep learning internship focused on CV and NLP (OCR, AR, semantic search) using pgvector-based RAG systems.<br>
 2. Built and deployed production ML pipelines using FastAPI, Streamlit, and Docker under the guidance of the CEO and AI Research Lead.<br>
-3. Deployed 3 production ML services using FastAPI and Docker.<br>
+Deployed 3 production ML services using FastAPI and Docker.<br>
 **EDUCATION**
 <br>COMSATS University Islamabad, Attock Campus			                              <br>
 B.S. in Artificial Intelligence             	                          *Expected Graduation, June 2027*<br>o	Current CGPA: 3.4/4.00<br>o	Related Coursework: Python Developer, Linear Algebra, Statistics, ML Fundamentals, Deep Learning, Computer Vision, NLP, MLOps Foundations<br>
