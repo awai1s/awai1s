@@ -372,22 +372,6 @@ View certificates and supporting evidence on my:
 
 [![Portfolio](https://img.shields.io/badge/View%20Certificates-Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://syed-awais-raza.vercel.app/#credentials)
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=awai1s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=awai1s&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awai1s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
 ## Let's Connect
 
 I am open to:
